@@ -7,7 +7,7 @@ link: https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv
 
 Data updated daily (during night)
 
-Same database exist for beauty products.
+Same database exists for beauty products.
 
 link: https://world.openbeautyfacts.org/data/en.openbeautyfacts.org.products.csv
 
