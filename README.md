@@ -12,6 +12,9 @@ Same database exists for beauty products.
 link: https://world.openbeautyfacts.org/data/en.openbeautyfacts.org.products.csv
 
 ## Main variables
+
+Download *Codebook.txt* to have the full list of variables.
+
 **General information**
 - Barcode of the product
 - Date that the product was added and last upgraded
