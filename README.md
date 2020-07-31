@@ -2,10 +2,13 @@
 Open Food Fact dataset - Data, Codebook and descriptive statistics
 
 Data: 1.462.885 observations (product level), 181 variables - 07/31/2020
+
 link: https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv
+
 Data updated daily (during night)
 
 Same database exist for beauty products.
+
 link: https://world.openbeautyfacts.org/data/en.openbeautyfacts.org.products.csv
 
 ## Main variables
