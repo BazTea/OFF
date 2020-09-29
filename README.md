@@ -25,7 +25,7 @@ Download *Codebook.txt* to have the full list of variables.
 - Brand
 - Category
 - Origin of ingredients
-- Manufacturing places : places where manufactured ou transformed
+- Manufacturing places : places where manufactured or transformed
 - List of countries where the product is sold
 - Labels
 - Purchase places (city ?)
@@ -37,6 +37,7 @@ Download *Codebook.txt* to have the full list of variables.
 - Ingredients from palm oil
 - Ingredients that may be from palm oil
 - Main category
+- ...
 
 **Nutrition facts**
 - Energy (Kcal and Kj)
@@ -49,3 +50,4 @@ Download *Codebook.txt* to have the full list of variables.
 - Ph
 - % of fruits/vegetables
 - carbon footprint
+- ...
